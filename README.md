@@ -1,6 +1,12 @@
-# assessment-2-TheRyNMC
-assessment-2-TheRyNMC created by GitHub Classroom
+# Graviball (Pinball Machine Mobile Game)
 
+## Video Walkthrough: ##
+https://youtu.be/oAHsFq7ON8o
+
+## Description: ##
+This is my pinball machine mobile game made for my old Samsung Galaxy Note 10. This is a built version of the game, but it also runs on PC.
+
+## Links: ##
 Unity Technologies - 2022 - Adaptive Performance Samsung Android - https://docs.unity3d.com/Packages/com.unity.adaptiveperformance.samsung.android@4.0/manual/index.html
 Stephan Bouchard - 2016 - TextMeshPro - https://docs.unity3d.com/Manual/com.unity.textmeshpro.html
 Unity Technologies Inc. - 2022 - ProBuilder - https://docs.unity3d.com/Packages/com.unity.probuilder@5.0/manual/index.html
